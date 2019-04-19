@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/UI">
+        <file>B_Circle.png</file>
+        <file>G_Circle.png</file>
+        <file>P_Circle.png</file>
+        <file>W_Circle.png</file>
+        <file>Y_Circle.png</file>
+    </qresource>
+    <qresource prefix="/new/ICON">
+        <file>Cloud.png</file>
+        <file>Cloud_mini.png</file>
+        <file>exit_mini.png</file>
+        <file>setting.png</file>
+        <file>setting_mini.png</file>
+    </qresource>
+</RCC>
